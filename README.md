@@ -1,0 +1,1 @@
+# Exemple de structure pour démarrer le projet
